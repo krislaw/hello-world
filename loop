@@ -1,0 +1,5 @@
+for(k = 0; k < n; k = k + 1){
+  array[k] = k;
+  }
+  
+  this is  a test file
